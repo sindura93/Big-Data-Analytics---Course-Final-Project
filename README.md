@@ -1,4 +1,4 @@
-# Big Data Analytics – course project
+# Big Data Analytics – course project - under the supervision of Prof. Sridhar Nerur (https://mentis.uta.edu/explore/profile/sridhar-nerur)
 
 **Built a price prediction model to know what factors make for a profitable Airbnb listing**
 
